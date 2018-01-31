@@ -1,4 +1,4 @@
 <?php
 
-echo "helow world form heroku server":
+echo "helow world form heroku server";
 ?>
